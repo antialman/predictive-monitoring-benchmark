@@ -1,3 +1,9 @@
+# Homework 4 (tasks 1-3) for process mining course 2021
+
+All of the related code can be found in the Jupiter Notebook "Alman_homework_04.ipynb" and in the corresponding file "Alman_homework_04.pdf". 
+
+
+
 # Benchmark for outcome-oriented predictive process monitoring
 Supplementary material for the article ["Outcome-Oriented Predictive Process Monitoring: Review and Benchmark"](https://arxiv.org/abs/1707.06766) by Irene Teinemaa, Marlon Dumas, Marcello La Rosa, and Fabrizio Maria Maggi.
 
